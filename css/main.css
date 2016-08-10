@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0 auto;
+	width: 80%;
+}
+
+
+/*HEADER*/
+
+header nav {
+	padding-top: 8%;
+}
+
+header ul li {
+	display: inline-block;
+	padding-right: 3%;
+}
+
+/*SECTION*/
+
+section {
+	background-color: #808080
+}
+
+h1 {
+	font-size: 3em;
+	color: #ffffff;
+}
+
+p {
+	color: #ffffff;
+}
+
+
+/*FOOTER*/
