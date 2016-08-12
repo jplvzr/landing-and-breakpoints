@@ -91,3 +91,9 @@ footer .row {
 span {
 	color: #4334EF;
 }
+
+/*RESPONSIVE*/
+
+@media screen and (max-width : 535px) {
+
+}
