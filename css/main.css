@@ -39,6 +39,7 @@ section .first {
 h1 {
 	font-size: 3em;
 	color: #ffffff;
+	padding-bottom: 4%;
 }
 
 p,
@@ -80,6 +81,10 @@ form .button {
 
 p {
 	margin-bottom: 20%;
+}
+
+.register {
+	float: left;
 }
 
 /*FOOTER*/
